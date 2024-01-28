@@ -3,11 +3,13 @@
   height: 80vh;
   border: 1px solid red;
   font-size: 20px;
-  display: flex;
-  flex-direction: row;
-  justify-content: space-around;
-  margin: 0 auto;
   background-color: #dcded93c;
   padding: 20px;
   margin-top: 20px;
+  margin: 0 auto;
+}
+.calculator {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
 }
